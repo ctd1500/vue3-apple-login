@@ -1,0 +1,49 @@
+{
+	"name": "vue3-apple-login",
+	"version": "0.1.0",
+	"description": "Vue 3 Apple Login Component",
+	"author": "ctd1500",
+	"type": "module",
+	"main": "dist/apple-login.cjs",
+	"module": "dist/apple-login.js",
+	"files": [
+		"dist/*"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctd1500/vue3-apple-login.git"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build"
+	},
+	"dependencies": {
+		"vue-plugin-load-script": "^2.1.1"
+	},
+	"peerDependencies": {
+		"vue": "^3.5.13"
+	},
+	"devDependencies": {
+		"@ctd1500/eslint-config": "^0.2.0",
+		"@vitejs/plugin-vue": "^5.2.3",
+		"eslint": "^9.23.0",
+		"eslint-config-prettier": "^10.1.1",
+		"eslint-plugin-vue": "^10.0.0",
+		"prettier": "^3.5.3",
+		"vite": "^6.2.5"
+	},
+	"keywords": [
+		"Vue",
+		"Vue3",
+		"Vue 3",
+		"Vue.js",
+		"Apple",
+		"Apple Login",
+		"Apple Sign In",
+		"signin",
+		"sign in",
+		"login",
+		"log in"
+	],
+	"packageManager": "pnpm@10.6.5"
+}
